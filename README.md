@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ajaym99
-- 👀 I’m interested in electroncs
-- 🌱 I’m currently an undergraduate
+- 👋 Hi, I’m Ajay M
+- 👀 I’m interested in electronics.
 - 📫 How to reach me pantherajay99@gmail.com
 
 <!---
